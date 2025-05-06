@@ -15,3 +15,6 @@
     a. First Commit : Changed the content of the file1 i.e. being to be [with the commit "First Commit]
     b. Second Commit : Changed the content of the file1 i.e. Hello to Hi [with the commit "Second Commit]
     c. Third Commit : Added new line in the file1 i.e. Honda [with the commit "Third Commit"]
+
+## Second Assignment 
+   Updated
