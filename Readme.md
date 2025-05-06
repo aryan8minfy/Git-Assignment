@@ -5,7 +5,7 @@
     c. Third Commit : Added new line in the file1 i.e. Honda [with the commit "Third Commit"]
 
 ## Screenshot of the git log output
-    ![alt text](image.png)
+   image.png
    image-1.png
     ![alt text](image-2.png)
     ![alt text](image-3.png)
